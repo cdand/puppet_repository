@@ -6,6 +6,7 @@ mod "puppetlabs/apache", "0.8.1"
 mod "puppetlabs/pe_gem"
 mod "puppetlabs/mysql"
 mod "puppetlabs/firewall"
+mod "puppetlabs/ntp"
 mod "thias/vsftpd"
 
 
