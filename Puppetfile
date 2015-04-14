@@ -22,3 +22,7 @@ mod "property_list_key",
 mod 'r10k',
   :git => 'git://github.com/glarizza/r10k',
   :ref => 'feature/pe_update'
+
+mod 'notifyme',
+  :git => 'git://github.com/cdand/puppet-notifyme'
+
