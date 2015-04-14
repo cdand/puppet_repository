@@ -25,4 +25,4 @@ mod 'r10k',
 
 mod "notifyme",
   :git => "git://github.com/cdand/puppet-notifyme.git",
-  :ref => 'change_the_message'
+  :ref => 'another_change'
