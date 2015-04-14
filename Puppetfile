@@ -24,5 +24,5 @@ mod 'r10k',
   :ref => 'feature/pe_update'
 
 mod "notifyme",
-  :git => "git://github.com/glarizza/puppet-notifyme.git",
+  :git => "git://github.com/cdand/puppet-notifyme.git",
   :ref => 'change_the_message'
