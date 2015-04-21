@@ -7,6 +7,7 @@ mod "puppetlabs/pe_gem"
 mod "puppetlabs/mysql"
 mod "puppetlabs/firewall"
 mod "puppetlabs/ntp"
+mod "puppetlabs/java"
 mod "thias/vsftpd"
 mod "rtyler/jenkins"
 
