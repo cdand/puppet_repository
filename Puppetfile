@@ -8,6 +8,7 @@ mod "puppetlabs/mysql"
 mod "puppetlabs/firewall"
 mod "puppetlabs/ntp"
 mod "thias/vsftpd"
+mod "rtyler/jenkins"
 
 
 # Modules from Github using various references
