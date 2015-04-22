@@ -31,3 +31,6 @@ mod 'r10k',
 mod 'notifyme',
   :git => 'git://github.com/cdand/puppet-notifyme'
 
+mod 'fluentd',
+  :git => 'http://gitlab.overkooked.co.uk/cdand/fluentd.git'
+
