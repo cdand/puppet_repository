@@ -32,5 +32,5 @@ mod 'notifyme',
   :git => 'git://github.com/cdand/puppet-notifyme'
 
 mod 'fluentd',
-  :git => 'git@gitlab.overkooked.co.uk:cdand/fluentd.git'
+  :git => 'git@gitlab.overkooked.co.uk:cdand/fluentd.git',
   :branch => 'add_syslog'
