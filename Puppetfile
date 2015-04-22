@@ -33,4 +33,4 @@ mod 'notifyme',
 
 mod 'fluentd',
   :git => 'git@gitlab.overkooked.co.uk:cdand/fluentd.git'
-  :ref => 'add_syslog'
+  :branch => 'add_syslog'
